@@ -1,0 +1,100 @@
+.navbar-brand{
+color: white;
+font-size: 25px;
+}
+.itel{
+	color: white;
+}
+.container-fluid{
+	background-color: #0f3977;
+	padding-left: 130px;
+	padding-bottom:5px;
+}
+
+.breadcrumb{
+    background-color: #0f3977;
+        padding-left: 750px;
+        padding-right: 50px;
+        padding-top: 15px;
+        padding-bottom: 0px;
+}
+.save{
+	height:45px;
+	width:150px;
+	padding-top: 10px;
+}
+.item{
+	height: 550px;
+}
+
+.goatee{
+	height: 550px;
+	width: 1500px;
+}
+#carousel-example-generic{
+	margin-top:-25px;
+}
+.container{
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.icon-adjust{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.miracle{
+	background-color: #0f3977;
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+.sturdy{
+	padding-top: 30px;
+	padding-bottom: 40px;
+	color: white;
+}
+.img-circle{
+	padding-top: 5px;
+	height:70px;
+	width:70px;
+	border-radius: 70px;
+}
+.carousel-caption{
+	color: light-gray;
+}
+.end-img{
+	background-image:url('../img/maap.jpg');
+	padding-top: 30px;
+	padding-bottom: 20px;
+	background-repeat: no-repeat;
+	background-position: center;
+background-size: cover;
+}
+.form-horizontal {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: -523px;  
+    margin-right: 57px;
+    padding-top: 39px;
+}
+.form-group{
+	padding-left: 500px;
+}
+.circle {
+    background-color: rgba(255, 255, 255, 0.83);
+    padding-top: 100px;
+    padding-bottom: 150px;
+    margin-left: 482px;
+    margin-right: 415px;
+    border-radius: 239px;
+}
+.microbe{
+	background-color: #0f3977;
+	padding-top: 5px;
+    padding-bottom: 5px;
+}
+.but{
+	color: white;
+	font-size:30px;
+	background-color:#0f3977;
+	border-radius: 100%;
+}
